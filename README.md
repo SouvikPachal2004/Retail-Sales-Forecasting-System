@@ -51,8 +51,8 @@ Dataset Source: Provided by the user (Walmart_Sales.csv)
 
 | Metric | Value     |
 |--------|-----------|
-| RMSE   | ~ (value) |
-| MAE    | ~ (value) |
+| RMSE   | 558533.16 |
+| MAE    | 436018.10 |
 
 (Replace with actual results after model evaluation)
 
@@ -86,9 +86,3 @@ Souvik Pachal
 Final Year Project | 2025  
 """
 
-readme_path = "/mnt/data/README_Walmart_Sales_Project.md"
-
-with open(readme_path, "w") as f:
-    f.write(readme_content)
-
-readme_path
